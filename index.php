@@ -54,8 +54,36 @@ require_once "./server.php";
             }
             ?>
         </div>
-    </div>
 
+
+        <form action="./server.php" method="POST" class="p-4 mb-4 border rounded bg-light">
+            <div class="row mb-3">
+                <div class="col-md-6 mb-2">
+                    <input type="text" class="form-control" name="title" placeholder="Titolo" required>
+                </div>
+                <div class="col-md-6 mb-2">
+                    <input type="text" class="form-control" name="artist" placeholder="Artista" required>
+                </div>
+            </div>
+
+            <div class="row mb-3">
+                <div class="col-md-6 mb-2">
+                    <input type="text" class="form-control" name="cover_url" placeholder="URL Copertina" required>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <input type="number" class="form-control" name="release_year" placeholder="Anno di uscita" required>
+                </div>
+                <div class="col-md-3 mb-2">
+                    <input type="text" class="form-control" name="genre" placeholder="Genere" required>
+                </div>
+            </div>
+
+            <div class="text-end">
+                <button type="submit" class="btn btn-primary">Aggiungi</button>
+            </div>
+        </form>
+
+    </div>
 
 </body>
 
