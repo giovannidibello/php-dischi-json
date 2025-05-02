@@ -1,0 +1,41 @@
+body {
+    background-color: #1d2d3c;
+}
+
+/* header */
+
+header {
+    background-color: #05131e;
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+header img {
+    width: 50px;
+    margin-left: 50px;
+}
+
+/* card */
+
+.card {
+    background-color: #10202f;
+    color: white;
+}
+
+.card-title,
+.card-text {
+    font-weight: bold;
+}
+
+.card-img-top {
+    width: 90%;
+    padding: 5% 0;
+    margin: 0 auto;
+    display: block;
+}
+
+/* form */
+
+form {
+    background-color: #10202f;
+}
