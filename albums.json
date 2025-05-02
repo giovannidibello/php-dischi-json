@@ -1,0 +1,44 @@
+[
+    {
+        "title": "The Dark Side of the Moon",
+        "artist": "Pink Floyd",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/Dark_Side_of_the_Moon.png",
+        "release_year": 1973,
+        "genre": "Progressive Rock"
+    },
+    {
+        "title": "Thriller",
+        "artist": "Michael Jackson",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png",
+        "release_year": 1982,
+        "genre": "Pop"
+    },
+    {
+        "title": "Nevermind",
+        "artist": "Nirvana",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+        "release_year": 1991,
+        "genre": "Grunge"
+    },
+    {
+        "title": "Rumours",
+        "artist": "Fleetwood Mac",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/f/fb/FMacRumours.PNG",
+        "release_year": 1977,
+        "genre": "Rock"
+    },
+    {
+        "title": "21",
+        "artist": "Adele",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/1/1b/Adele_-_21.png",
+        "release_year": 2011,
+        "genre": "Soul"
+    },
+    {
+        "title": "Abbey Road",
+        "artist": "The Beatles",
+        "cover_url": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg",
+        "release_year": 1969,
+        "genre": "Rock"
+    }
+]
